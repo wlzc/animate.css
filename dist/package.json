@@ -1,0 +1,24 @@
+{
+  "name": "wlzc-animate.css",
+  "version": "1.0.0",
+  "description": "wlzc animate css.",
+  "main": "animate.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wlzc/animate.css.git"
+  },
+  "keywords": [
+    "wlzc",
+    "animate",
+    "css"
+  ],
+  "author": "wlzc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlzc/animate.css/issues"
+  },
+  "homepage": "https://github.com/wlzc/animate.css#readme"
+}
