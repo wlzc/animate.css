@@ -1,9 +1,14 @@
 {
 
- 
-  "zooming_entrances": [
-    "zoomInRight"
-  ]
-
+    "zooming_entrances": [
+        "zoomInRight"
+    ],
+    "bouncing_entrances": [
+        "bounceIn",
+        "bounceInDown",
+        "bounceInLeft",
+        "bounceInRight",
+        "bounceInUp"
+    ]
 
 }
